@@ -1,0 +1,17 @@
+{
+  "name": "more-complicated-nodejs-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1",
+    "hapi-pino": "^9.1.0",
+    "pino-pretty": "^7.3.0"
+  }
+}
